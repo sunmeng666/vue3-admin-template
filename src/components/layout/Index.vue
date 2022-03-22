@@ -56,7 +56,7 @@
   import { MenuUnfoldOutlined, MenuFoldOutlined } from '@ant-design/icons-vue';
 
   export default defineComponent({
-    name: 'm-layour',
+    name: 'm-layout',
     components: {
       [AsAvatar.name]: AsAvatar,
       [AsLogo.name]: AsLogo,
